@@ -102,6 +102,7 @@ Queries were written to answer targeted business questions:
 
 
 
+
 **Dashboard highlights:**
 - 💰 Total revenue breakdown by gender, age group, and subscription status
 - 🏆 Top 5 products by revenue and review rating
