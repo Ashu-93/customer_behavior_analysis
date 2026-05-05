@@ -191,8 +191,7 @@ customer-shopping-behavior-analysis/
 
 **Ashwini Nerker**
 📧 nerkerashwini.93@gmail.com
-🔗 [LinkedIn]([(https://www.linkedin.com/in/ashwini-nerker-a29510159/))] | [GitHub]([https://github.com/Ashu-93])
-
+🔗 [LinkedIn](https://www.linkedin.com/in/ashwini-nerker-a29510159/) | [GitHub](https://github.com/Ashu-93)
 ---
 
 ## 📄 License
