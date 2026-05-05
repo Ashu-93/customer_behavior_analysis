@@ -100,6 +100,8 @@ Queries were written to answer targeted business questions:
 > *Power BI dashboard screenshot —
 <img width="1438" height="831" alt="Screenshot 2026-05-04 at 8 09 23 PM" src="https://github.com/user-attachments/assets/741d4e0a-5c93-4fae-aeac-f5dede00221c" />
 
+
+
 **Dashboard highlights:**
 - 💰 Total revenue breakdown by gender, age group, and subscription status
 - 🏆 Top 5 products by revenue and review rating
