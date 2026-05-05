@@ -91,7 +91,7 @@ Queries were written to answer targeted business questions:
 - Built an interactive dashboard with Card, Custome column chart,Donut chart and Button Slicer
 - Visualized key metrics including revenue by segment, product performance, and subscription impact
   
-<img width="1429" height="795" alt="Screenshot 2026-05-04 at 8 03 32 PM" src="https://github.com/user-attachments/assets/952218d3-fdc9-4de0-9b68-c2ff64151133" />
+  <img width="1438" height="831" alt="Screenshot 2026-05-04 at 8 09 23 PM" src="https://github.com/user-attachments/assets/741d4e0a-5c93-4fae-aeac-f5dede00221c" />
 
 ### 7. 📝 Report
 - Compiled findings into a structured report summarizing insights, business recommendations, and limitations
